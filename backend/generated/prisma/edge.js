@@ -124,7 +124,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\lucas\\Documents\\VsCode\\NodeJS\\generated\\prisma",
+      "value": "C:\\Users\\larip\\Downloads\\Documents\\NodeJS\\API-Login-Cadastro\\backend\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -138,7 +138,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\lucas\\Documents\\VsCode\\NodeJS\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\larip\\Downloads\\Documents\\NodeJS\\API-Login-Cadastro\\backend\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
